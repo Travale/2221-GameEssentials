@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d0d076e-8292-4b9c-b1ed-e532aae1e09e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Antlr3.Runtime.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Antlr3.Runtime.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Antlr3.Runtime.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Antlr3.Runtime.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Editor.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Editor.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll.mdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Editor.pdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Editor.pdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Editor.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Editor.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.pdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.pdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll.mdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.pdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.pdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.pdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.pdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Editor.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Editor.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Editor.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Editor.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Editor.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Editor.dll.mdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Editor.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Editor.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Editor.pdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Editor.pdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Editor.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Editor.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Runtime.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Runtime.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Runtime.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Runtime.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Runtime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Runtime.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Runtime.pdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Runtime.pdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Runtime.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Bolt.State.Runtime.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ionic.Zip.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ionic.Zip.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ionic.Zip.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ionic.Zip.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ionic.Zip.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ionic.Zip.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ionic.Zip.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ionic.Zip.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll.mdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.pdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.pdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll.mdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.pdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.pdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.pdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.pdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.pdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.pdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Platforms.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Platforms.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Platforms.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Platforms.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Platforms.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Platforms.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Platforms.pdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Platforms.pdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Platforms.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/Ludiq.Platforms.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/MiscUtil.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/MiscUtil.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/MiscUtil.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/MiscUtil.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/MiscUtil.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/MiscUtil.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/MiscUtil.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/MiscUtil.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/System.Threading.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/System.Threading.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/System.Threading.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/System.Threading.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/System.Threading.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/System.Threading.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/YamlDotNet.defines.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/YamlDotNet.defines.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/YamlDotNet.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/YamlDotNet.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/YamlDotNet.pdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/YamlDotNet.pdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/YamlDotNet.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/YamlDotNet.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/sqlite3.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Assemblies/sqlite3.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Bolt.Core.root.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Bolt.Core.root.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap/Bolt.AnimatorMessageListener.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap/Bolt.AnimatorMessageListener.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap/Bolt.GlobalMessageListener.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap/Bolt.GlobalMessageListener.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap/Bolt.SceneVariables.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap/Bolt.SceneVariables.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap/Bolt.UnityMessageListener.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap/Bolt.UnityMessageListener.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap/Bolt.Variables.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap/Bolt.Variables.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap/Bolt.VariablesAsset.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap/Bolt.VariablesAsset.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap/Bolt.VariablesSaver.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/IconMap/Bolt.VariablesSaver.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/Bolt.Flow.root.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/Bolt.Flow.root.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/IconMap.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/IconMap.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/IconMap/Bolt.FlowMachine.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/IconMap/Bolt.FlowMachine.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/IconMap/Bolt.FlowMacro.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/IconMap/Bolt.FlowMacro.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/Bolt.State.root.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/Bolt.State.root.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/IconMap.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/IconMap.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/IconMap/Bolt.StateMachine.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/IconMap/Bolt.StateMachine.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/IconMap/Bolt.StateMacro.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/IconMap/Bolt.StateMacro.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Bolt.root.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Bolt.root.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/0. READ ME FIRST.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/0. READ ME FIRST.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/1. Introduction.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/1. Introduction.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/1. Introduction/1. Installation.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/1. Introduction/1. Installation.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/1. Introduction/2. Configuration.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/1. Introduction/2. Configuration.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/1. Introduction/3. Windows &amp; Shortcuts.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/1. Introduction/3. Windows &amp; Shortcuts.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/1. Introduction/4. Updates &amp; Backups.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/1. Introduction/4. Updates &amp; Backups.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/1. Introduction/5. Documentation.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/1. Introduction/5. Documentation.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/2. Basic Concepts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/2. Basic Concepts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/1. Types.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/1. Types.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/2. Variables.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/2. Variables.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/3. Graphs, Machines &amp; Macros.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/3. Graphs, Machines &amp; Macros.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/4. Groups.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/4. Groups.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/3. Flow Graphs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/3. Flow Graphs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/1. Units &amp; Ports.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/1. Units &amp; Ports.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/2. Connections &amp; Relations.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/2. Connections &amp; Relations.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/3. Predictive &amp; Live Debugging.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/3. Predictive &amp; Live Debugging.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/4. Super Units.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/4. Super Units.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/4. State Graphs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/4. State Graphs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/4. State Graphs/1. Flow States &amp; Super States.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/4. State Graphs/1. Flow States &amp; Super States.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/4. State Graphs/2. Transitions.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/4. State Graphs/2. Transitions.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/4. State Graphs/3. State Units.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/Documentation/4. State Graphs/3. State Units.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt/LICENSES.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt/LICENSES.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Conversion.v3.5.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Conversion.v3.5.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Engine.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Engine.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Framework.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Framework.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Utilities.v3.5.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Utilities.v3.5.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.VisualC.STLCLR.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.VisualC.STLCLR.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.AddIn.Contract.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.AddIn.Contract.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.AddIn.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.AddIn.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ComponentModel.DataAnnotations.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ComponentModel.DataAnnotations.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Configuration.Install.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Configuration.Install.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Configuration.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Configuration.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Core.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Core.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.DataSetExtensions.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.DataSetExtensions.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Entity.Design.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Entity.Design.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Entity.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Entity.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Linq.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Linq.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Services.Client.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Services.Client.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Services.Design.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Services.Design.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Services.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Services.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.SqlXml.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.SqlXml.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Deployment.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Deployment.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.DirectoryServices.AccountManagement.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.DirectoryServices.AccountManagement.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.DirectoryServices.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.DirectoryServices.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Drawing.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Drawing.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.EnterpriseServices.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.EnterpriseServices.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.IdentityModel.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.IdentityModel.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Management.Instrumentation.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Management.Instrumentation.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Management.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Management.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Messaging.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Messaging.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Net.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Net.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Printing.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Printing.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Runtime.Remoting.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Runtime.Remoting.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Runtime.Serialization.Formatters.Soap.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Runtime.Serialization.Formatters.Soap.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Runtime.Serialization.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Runtime.Serialization.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Security.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Security.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ServiceModel.Web.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ServiceModel.Web.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ServiceModel.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ServiceModel.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ServiceProcess.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ServiceProcess.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Transactions.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Transactions.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Abstractions.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Abstractions.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.DynamicData.Design.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.DynamicData.Design.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.DynamicData.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.DynamicData.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Entity.Design.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Entity.Design.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Entity.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Entity.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Extensions.Design.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Extensions.Design.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Extensions.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Extensions.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Routing.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Routing.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Services.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Services.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Windows.Forms.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Windows.Forms.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Windows.Presentation.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Windows.Presentation.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.WorkflowServices.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.WorkflowServices.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Xml.Linq.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Xml.Linq.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Xml.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Xml.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/mscorlib.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/DotNetDocumentation/mscorlib.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Ludiq.Core.root.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Ludiq.Core.root.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Graphs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Graphs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Graphs/Ludiq.Graphs.root.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Graphs/Ludiq.Graphs.root.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Graphs/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Graphs/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq/Ludiq.root.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq/Ludiq.root.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Macros/Player Controller.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Macros/Player Controller.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1813302173">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="954" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="954" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CapsuleController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="57" column="93" selection-start-line="57" selection-start-column="93" selection-end-line="57" selection-end-column="93" />
+              <folding>
+                <marker date="1536455222434" expanded="true" signature="6:78" ph="..." />
+                <marker date="1536455222434" expanded="true" signature="126:1495" ph="{...}" />
+                <marker date="1536455222434" expanded="true" signature="487:579" ph="{...}" />
+                <marker date="1536455222434" expanded="true" signature="603:1057" ph="{...}" />
+                <marker date="1536455222434" expanded="true" signature="911:951" ph="{...}" />
+                <marker date="1536455222434" expanded="true" signature="998:1038" ph="{...}" />
+                <marker date="1536455222434" expanded="true" signature="1076:1466" ph="{...}" />
+                <marker date="1536455222434" expanded="true" signature="1114:1162" ph="{...}" />
+                <marker date="1536455222434" expanded="true" signature="1209:1305" ph="{...}" />
+                <marker date="1536455222434" expanded="true" signature="1390:1460" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CapsuleController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/CapsuleController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d0d076e-8292-4b9c-b1ed-e532aae1e09e" name="Default Changelist" comment="" />
+      <created>1536454083899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536454083899</updated>
+      <workItem from="1536454091418" duration="1162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1162000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18390192" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="TeamCity" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CapsuleController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="93" selection-start-line="57" selection-start-column="93" selection-end-line="57" selection-end-column="93" />
+          <folding>
+            <marker date="1536455222434" expanded="true" signature="6:78" ph="..." />
+            <marker date="1536455222434" expanded="true" signature="126:1495" ph="{...}" />
+            <marker date="1536455222434" expanded="true" signature="487:579" ph="{...}" />
+            <marker date="1536455222434" expanded="true" signature="603:1057" ph="{...}" />
+            <marker date="1536455222434" expanded="true" signature="911:951" ph="{...}" />
+            <marker date="1536455222434" expanded="true" signature="998:1038" ph="{...}" />
+            <marker date="1536455222434" expanded="true" signature="1076:1466" ph="{...}" />
+            <marker date="1536455222434" expanded="true" signature="1114:1162" ph="{...}" />
+            <marker date="1536455222434" expanded="true" signature="1209:1305" ph="{...}" />
+            <marker date="1536455222434" expanded="true" signature="1390:1460" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
