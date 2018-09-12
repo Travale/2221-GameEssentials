@@ -124,8 +124,8 @@ GameObject:
   - component: {fileID: 128491669}
   - component: {fileID: 128491668}
   - component: {fileID: 128491667}
-  m_Layer: 0
-  m_Name: Cube
+  m_Layer: 9
+  m_Name: Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -192,8 +192,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 128491666}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -1.11, z: 5.32}
-  m_LocalScale: {x: 43.56219, y: 0.16422988, z: 28.073788}
+  m_LocalPosition: {x: 0, y: -3.06, z: 5.32}
+  m_LocalScale: {x: 43.56219, y: 3.3001766, z: 28.073788}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -261,7 +261,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"Speed","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"Jump","value":{"$content":8.0,"$type":"System.Single"},"$version":"A"},{"name":"ExtraJumps","value":{"$content":2,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"Speed","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"Jump","value":{"$content":8.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!136 &140305077
 CapsuleCollider:
