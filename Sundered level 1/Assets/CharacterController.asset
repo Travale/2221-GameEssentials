@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: CharacterController
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[{"name":"CanAirJump","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":322.6217,"y":-496.2224},"zoom":0.45,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"25a61b96-cc65-4a29-b150-5b8c9f1a3508","$version":"A","$type":"Bolt.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"dbeabbdb-8931-4133-80c7-f1adef0e8bc3","$version":"A","$type":"Bolt.Update"},{"coroutine":false,"defaultValues":{"key":{"$content":"Space","$type":"UnityEngine.KeyCode"},"action":{"$content":"Down","$type":"Ludiq.PressState"}},"position":{"x":-270.0,"y":-796.0},"guid":"97238658-d2c6-4046-a029-f286afc07cc5","$version":"A","$type":"Bolt.OnKeyboardInput"},{"defaultValues":{},"position":{"x":133.0,"y":-750.0},"guid":"f7ff8558-899b-462f-904b-61f91bbdab87","$version":"A","$type":"Bolt.Branch"},{"defaultValues":{},"position":{"x":140.0,"y":-546.0},"guid":"40fb89c8-a02f-48ee-8ac8-1b39e59607df","$version":"A","$type":"Bolt.Branch"},{"kind":"Graph","defaultValues":{"name":{"$content":"CanAirJump","$type":"System.String"}},"position":{"x":469.0,"y":-780.0},"guid":"3232de4b-e393-4663-84b1-0dff4d9a6636","$version":"A","$type":"Bolt.SetVariable"},{"kind":"Graph","defaultValues":{"name":{"$content":"CanAirJump","$type":"System.String"}},"position":{"x":474.0,"y":-571.0},"guid":"824a1b77-9f6d-4a77-8a68-35904248c234","$version":"A","$type":"Bolt.SetVariable"}],"$version":"A"}}'
+    _objectReferences: []
